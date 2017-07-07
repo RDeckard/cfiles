@@ -94,6 +94,7 @@ setopt interactivecomments
 
 # Zsh has a spelling corrector
 setopt CORRECT
+unsetopt share_history
 
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
