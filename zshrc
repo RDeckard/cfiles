@@ -101,3 +101,8 @@ eval "$(rbenv init -)"
 export PAGER=most
 
 alias watch='watch --color '
+alias go='xdg-open'
+
+. $HOME/.asdf/asdf.sh
+
+. $HOME/.asdf/completions/asdf.bash
