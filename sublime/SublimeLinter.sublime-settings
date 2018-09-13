@@ -1,0 +1,7 @@
+{
+  "paths": {
+    "linux": ["~/.asdf/shims"],
+    "osx": [],
+    "windows": []
+  }
+}
